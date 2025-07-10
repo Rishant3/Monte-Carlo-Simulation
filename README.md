@@ -27,7 +27,11 @@ To generate i.i.d. samples from a **bivariate normal distribution** with specifi
 
 bivariate_normal(1, 1, 1, 1, 0.7, 1000, plot=True)
 
+## 📊 Output Visualization
 
+Below is the plot showing how the neutrino energy distribution shifts for increasing values of β:
+
+![Bivariate Sampling](Figure_1.png)
 
 
 
@@ -90,11 +94,11 @@ where:
 
 ---
 
-## 📊 Output
+## 📊 Output Visualization
 
-- A **multi-curve plot** of lab-frame energy distributions φ′(E′) for β = 0.01, 0.1, 0.9, 0.99
-- Clear illustration of how increasing β leads to **relativistic beaming** and **energy shift**
+Below is the plot showing how the neutrino energy distribution shifts for increasing values of β:
 
+![Neutrino Energy Distribution for Different Beta Values](Figureplot.png)
 ---
 
 ## 🧪 Requirements
